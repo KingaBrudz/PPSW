@@ -8,7 +8,7 @@ void Delay(unsigned uiMiliSecs)
 	{
 		;
 	}
-}
+} //kinga
 
 int main()
 {
